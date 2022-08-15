@@ -1,0 +1,4 @@
+[*.cs]
+
+dotnet_diagnostic.IDE0230.severity = error
+csharp_style_prefer_utf8_string_literals = true:error
